@@ -2,6 +2,8 @@
 
 Flutterの「**Column Widget**」と「**Row Widget**」を使ったレイアウトチートシートです。
 
+是非ご活用ください。
+
 [原型](https://github.com/Naruse-Kazuki/Flutter_Layout_CheatSheet/tree/master/nomal)
 
 [VerticalDirection](https://github.com/Naruse-Kazuki/Flutter_Layout_CheatSheet/tree/master/VerticalDirection)
