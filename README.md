@@ -1,10 +1,8 @@
-# Flutter_Layout_CheatSheet
+# Flutter-Layout-Cheatsheet
 
-Flutterの「**Column Widget**」と「**Row Widget**」を使ったレイアウトチートシートです。
+This is a layout cheat sheet using Flutter's "Column Widget" and "Row Widget".
 
-ご自由にご活用ください。
-
-[原型](https://github.com/Naruse-Kazuki/Flutter_Layout_CheatSheet/tree/master/nomal)
+[prototype](https://github.com/Naruse-Kazuki/Flutter_Layout_CheatSheet/tree/master/nomal)
 
 [VerticalDirection](https://github.com/Naruse-Kazuki/Flutter_Layout_CheatSheet/tree/master/VerticalDirection)
 
